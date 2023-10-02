@@ -10,6 +10,11 @@ Coms = Voice Dialog
 
 Notes:
 Coms: Grumbot: I.. may.. have been corrupted..
+Website on a computer that leads to a webpage with a bar, when you enter the code, you will gain more info on the webpage and a code to open doors
+Players gain starting money
+Money can be earned by killing, looting and selling
+Money can be used to buy bullets, med kits and such
+Respawn points for single player
 
 Short:
 They experimented with the skulk, it seemed to feed on the host and make it stronger, heal faster, even smarter
