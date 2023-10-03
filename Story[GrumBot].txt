@@ -20,23 +20,23 @@ It seemed like he wasn't fully aware of what he was doing
 We escorted him back to his room
 We started noticing different behaviours among the soldiers, eating habbits changed, sleeping disorders, faster heart rates
 These are a few of the many strange behaviours we found. The most unusual was the iris, it stopped replying to light
-Yet the soldiers were following eevry order we gave them.
+Yet the soldiers were following every order we gave them.
 We stopped with the usual testing and brought some soldiers to one on one conversations
-Asked them about their family, hobbies, favorite food
+Asked them about their family, hobbies, favourite food
 They just sat there, empty..
 We agreed to stop the testing, tomorrow we will start to remove the cyberware and Sculk from our soldiers
 The Facility is now on lockdown, the sculk seems to have an effect on the mind of the soldiers. Even the dead, they are.. not dead anymore, if you read this, watch your 6
 
 Players:
     Main-Class
-        -   Medic (Equiped with a ++medic kit and capable of holding 3 kits in total) [Can only use light weapons]
-        -   JuggerNaut (Heavy Weapon Specialist equiped with bonus armor) [--mele weapon damge]
+        -   Medic (Equipped with a ++medic kit and capable of holding 3 kits in total) [Can only use light weapons]
+        -   JuggerNaut (Heavy Weapon Specialist equipped with bonus armor) [--mele weapon damage]
         -   Manic (A Knife Specialist that uses stims) [--heavy weapon]
-        -   Cyber (Pre installed with augements) [--Can't use medic kits]
-        -   Soldier (No special features, can hold 1 Medic Kit) 
+        -   Cyber (Pre installed with augments) [--Can't use medic kits]
+        -   Soldier (No special features, can hold 1 Medic Kit)
     Sub-Class
-        -   Computer skills: Can use computers to turn on power/lighs/open door
-        -   Grapple Hook: Can use Grapple to get to sertain areas easier
+        -   Computer skills: Can use computers to turn on power/lights/open door
+        -   Grapple Hook: Can use Grapple to get to certain areas easier
         -   Looter: Can loot locked Chests and Lockers
 
 Mission 1
@@ -44,11 +44,11 @@ Screen: Fade in
 Screen-display: Time: 00/00/0000 00:00 Place: XXX XXX Objective: XXX XXX
 Main-Objective: Find an locate evidence for why we lost communication with the Sub-Zero Research Facility
 
-Coms [Alpha]: Aplha to Delta, do you copy?
+Coms [Alpha]: Alpha to Delta, do you copy?
 Options [1]: We copy you loud and clear
 Coms [Alpha]: The objective lays on your North, We will check back with you in an hour
 Coms [Alpha]: Use the ping when you are ready for extraction
-Coms [Alpha]: Communication may fall flat when approuching the target
+Coms [Alpha]: Communication may fall flat when approaching the target
 Coms [Alpha]: Read Back, over
 Options [1]: Follow north, Communication might be limited, Ping when ready for extraction, over
 Coms [Alpha]: Correct, over
@@ -68,7 +68,7 @@ You are inside
 You notice there is no power
 Objective: Find a way to restore power
 Solutions
--You take the elevator shaft to basment floor -1 (laders) Here you will do a couple small puzzles to find and turn on the power
+-You take the elevator shaft to basement floor -1 (ladders) Here you will do a couple small puzzles to find and turn on the power
 1-find a key to open the door
 2-fix the generator and find 3 fuses
 3-Turn on the power (A switch)
@@ -84,6 +84,8 @@ Coms [4]: I did not sign up for this
 Coms [2]: Focus on the mission
 Coms [1]: Scout around and see what you can find
 
+You kill off enemies in the new unlocked areas
+
 Delay
 
 Coms [Scientist]: Hello, does anyone copy?
@@ -93,7 +95,7 @@ Options [1]:
 
 Coms [Scientist]:
 -Skip
--I am Docter XXX XXX
+-I am Doctor XXX XXX
 I am alive in the Storage Room B1
 I assume you are here for information about the project
 I can help you, guide you
