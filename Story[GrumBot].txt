@@ -15,6 +15,7 @@ Players gain starting money
 Money can be earned by killing, looting and selling
 Money can be used to buy bullets, med kits and such
 Respawn points for single player
+Restock station at the main gate
 
 Short:
 They experimented with the skulk, it seemed to feed on the host and make it stronger, heal faster, even smarter
@@ -113,6 +114,9 @@ we are looking for a sample, data we can download and Documents about the experi
 -Why would we rescue you?
 
 
+
+First you will need level 1 clearance, you will be able to find a level 1 clearance pass at the west wing of the building, look if you can find one near the medic bay
+parcour + shooting
 
 
 
